@@ -9,5 +9,83 @@ Em 2 de Julho, um nave-mãe alienígena entrou na orbita terrestre e depositou c
 
 Em 5 de Julho, os Cavaleiros Negros, esquadrão de caças F/A-18 do Corpo de Fuzileiros Navais, participaram em um assaulto a um destroyer próximo a Los Angeles.
 
-Headings
-Você pode
+Cabeçalho
+Você pode criar cabeçalhos e adicionar uma ou mais simbolos # antes do texto de seu cabeçalho. O número de # que você usar vai determinar o tamanho da fonte do cabeçalho.
+
+# A maior fonte (an <h1> tag)
+## A segunda maior fonte (um <h2> tag)
+...
+###### Tamanho 6 vezes maior (um <h6> tag)
+
+Blocos de citações
+Você pode indicar blocos de citações com um >
+Nas palavras de Abraham lincoln:
+
+>Perdoe meu francês
+
+Estilo de texto
+Você pode fazer o tesxto ser em negrito ou itálico.
+
+*Esse texto é em itálio*
+**Esse texto é em negrito**
+
+Para o texto ser negrito e *itálico* você pode usar um * ou _ antes e depois do  texto para estilizar como deseja. Isso permite combinar itálico e negrito num mesmo texto, se necessário.
+
+** Todos _devem_ perticipar da reunião ás 5 horas de hoje.**
+
+Listas
+Listas não ordenadas
+
+Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou -.
+
+* Item
+* Item
+* Item
+
+- Item
+- Item
+- Item
+
+Listas ordenadas
+
+Você pode criar uma lista ordenada precendo os itens com um número.
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+Listas aninhadas
+
+Você pode criar listas aninhadas pelo recuo dos itens da lista por dois espaços.
+
+1 . Item 1
+  1. Um corolário do item acima.
+  2. No entanto, outro a considerar.
+2. O artigo 2
+  *Um corolário que não precisa ser solicitado.
+    *Este é um recuo com quatro espaços, porque ele é dois espaços mais longe do o do item acima.
+    *Você pode querer considerar ter que fazer uma nova lista.
+3. O artigo 3
+
+A formatação do código
+Formatos em linha
+
+Use a crase (`) para formatar o texto em um formato especial monospace. Tudo dentro dos acentos como aparece no exemplo. sem nenhum formatação especial.
+
+Aqui está uma ideia: por que não vamos tomar o `Super projeto` e transformá-lo em um `**Projeto**Razoável`.
+
+Múltiplas linhas
+Você pode usar três crases (```) para formatar o texto em seu próprio bloco distinto.
+
+Confira este programa limpo que eu escrevi:
+
+```
+
+x = 0
+x = 2+2
+what is x
+```
+
+Links
+Você pode criar uma ligação em linha envolvendo links entre colchetes ( [] ), e em seguida, envolver a ligação entre parênteses( ()).
+Por exemplo, para criar um hiperlink para www.github.com , com um texto de link que diz, Visite Github!, você você escreve da seguinte forma em Markdown: [Visite Github!] (www.github.com).
