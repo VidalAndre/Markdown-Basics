@@ -6,26 +6,27 @@ Markdown permite que você escreva usando um plano de texto fácil de ler e fác
 ##**Parágrafos **
 Parágrafos em Markdown são apenas uma ou mais linhas consecutivas, seguidas de uma ou mais linhas em branco.
 
-Em 2 de Julho, um nave-mãe alienígena entrou na orbita terrestre e depositou cerca de uma dúzia de disco voadores ''destroyers'', cada um com 15 milhas(24km)de extensão.
+Em 2 de Julho, uma nave-mãe alienígena entrou na orbita terrestre e depositou cerca de uma dúzia de disco voadores ''destroyers'', cada um com 15 milhas(24km)de extensão.
 
-Em 5 de Julho, os Cavaleiros Negros, esquadrão de caças F/A-18 do Corpo de Fuzileiros Navais, participaram em um assaulto a um destroyer próximo a Los Angeles.
+Em 5 de Julho, os Cavaleiros Negros, esquadrão de caças F/A-18 do Corpo de Fuzileiros Navais, participaram em um assalto a um destroyer próximo a Los Angeles.
 
 ##**Cabeçalho**
-Você pode criar cabeçalhos e adicionar uma ou mais simbolos # antes do texto de seu cabeçalho. O número de # que você usar vai determinar o tamanho da fonte do cabeçalho.
+Você pode criar cabeçalhos e adicionar um ou mais simbolos # antes do texto de seu cabeçalho. O número de # que você usar vai determinar o tamanho da fonte do cabeçalho.
 
-# A maior fonte (an <h1> tag)
-## A segunda maior fonte (um <h2> tag)
+# Fonte grande (an <h1> tag)
+## Fonte maior (um <h2> tag)
 ...
-###### Tamanho 6 vezes maior (um <h6> tag)
+###### Fonte 6 vezes maior (um <h6> tag)
 
 ##**Blocos de citações**
 Você pode indicar blocos de citações com um >
+
 Nas palavras de Abraham lincoln:
 
 >Perdoe meu francês
 
 ##**Estilo de texto**
-Você pode fazer o tesxto ser em negrito ou itálico.
+Você pode fazer o texto ser em negrito ou itálico.
 
 *Esse texto é em itálio*
 **Esse texto é em negrito**
@@ -37,7 +38,7 @@ Para o texto ser negrito e *itálico* você pode usar um * ou _ antes e depois d
 ##**Listas**
 Listas não ordenadas
 
-Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou -.
+Você pode fazer uma lista desordenada precedendo os itens da lista com um * ou -.
 
 * Item
 * Item
@@ -47,7 +48,7 @@ Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou 
 - Item
 - Item
 
-Listas ordenadas
+**Listas ordenadas**
 
 Você pode criar uma lista ordenada precendo os itens com um número.
 
@@ -57,7 +58,7 @@ Você pode criar uma lista ordenada precendo os itens com um número.
 
 Listas aninhadas
 
-Você pode criar listas aninhadas pelo recuo dos itens da lista por dois espaços.
+Você pode criar listas aninhadas através do recuo dos itens da lista por dois espaços.
 
 1 . Item 1
   1. Um corolário do item acima.
