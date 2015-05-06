@@ -1,15 +1,16 @@
-Básico do Markdown
+#####Básico do Markdown
 Markdown permite que você escreva usando um plano de texto fácil de ler e fácil de escrever que converte em um HTML válido para ser visto no GitHub.
 
-Escrevendo no Markdown
-Parágrafos 
+###**Escrevendo no Markdown**
+
+##**Parágrafos **
 Parágrafos em Markdown são apenas uma ou mais linhas consecutivas, seguidas de uma ou mais linhas em branco.
 
 Em 2 de Julho, um nave-mãe alienígena entrou na orbita terrestre e depositou cerca de uma dúzia de disco voadores ''destroyers'', cada um com 15 milhas(24km)de extensão.
 
 Em 5 de Julho, os Cavaleiros Negros, esquadrão de caças F/A-18 do Corpo de Fuzileiros Navais, participaram em um assaulto a um destroyer próximo a Los Angeles.
 
-Cabeçalho
+##**Cabeçalho**
 Você pode criar cabeçalhos e adicionar uma ou mais simbolos # antes do texto de seu cabeçalho. O número de # que você usar vai determinar o tamanho da fonte do cabeçalho.
 
 # A maior fonte (an <h1> tag)
@@ -17,13 +18,13 @@ Você pode criar cabeçalhos e adicionar uma ou mais simbolos # antes do texto d
 ...
 ###### Tamanho 6 vezes maior (um <h6> tag)
 
-Blocos de citações
+##**Blocos de citações**
 Você pode indicar blocos de citações com um >
 Nas palavras de Abraham lincoln:
 
 >Perdoe meu francês
 
-Estilo de texto
+##**Estilo de texto**
 Você pode fazer o tesxto ser em negrito ou itálico.
 
 *Esse texto é em itálio*
@@ -33,7 +34,7 @@ Para o texto ser negrito e *itálico* você pode usar um * ou _ antes e depois d
 
 ** Todos _devem_ perticipar da reunião ás 5 horas de hoje.**
 
-Listas
+##**Listas**
 Listas não ordenadas
 
 Você pode fazer uma lista desordenada precedendo itens da lista ou com um * ou -.
